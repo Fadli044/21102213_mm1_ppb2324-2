@@ -45,7 +45,7 @@ class MyApp extends StatelessWidget {
 
                   //Nama
                   Text(
-                    "Fadli Muzaki",
+                    "Nazar Yosa Wisnu Wardana",
                     style: TextStyle(
                       color: Colors.white,
                       fontWeight: FontWeight.bold,
@@ -56,7 +56,7 @@ class MyApp extends StatelessWidget {
                   ),
                   //NIM
                   Text(
-                    "21102213",
+                    "21102192",
                     style: TextStyle(
                       color: Colors.white,
                       fontWeight: FontWeight.bold,
@@ -98,14 +98,14 @@ class MyApp extends StatelessWidget {
                   ),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                    children: [Text("Nama "), Text("Fadli Muzaki")],
+                    children: [Text("Nama "), Text("Nazar Yosa Wisnu Wardana")],
                   ),
                   SizedBox(
                     height: 15,
                   ),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                    children: [Text("Kelas"), Text("MM1")],
+                    children: [Text("Kelas"), Text("MM4")],
                   ),
                   SizedBox(
                     height: 15,
@@ -122,7 +122,7 @@ class MyApp extends StatelessWidget {
                   ),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                    children: [Text("Dosen Wali "), Text("NAP")],
+                    children: [Text("Dosen Wali "), Text("MLU")],
                   ),
                   SizedBox(
                     height: 15,
